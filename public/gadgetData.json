@@ -1,0 +1,241 @@
+[
+    {
+      "product_id": "E001",
+      "product_title": "Smartphone XYZ 5G",
+      "product_image": "https://i.ibb.co.com/CzyxzBK/Smartphone-XYZ-5-G.jpg",
+      "category": "Phones",
+      "price": 699.99,
+      "description": "A high-performance smartphone with 5G capabilities, advanced camera, and long battery life.",
+      "Specification": [
+        "6.5-inch OLED display",
+        "128GB storage, 8GB RAM",
+        "Triple-lens 48MP rear camera",
+        "5G connectivity",
+        "4500mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "E002",
+      "product_title": "Wireless Noise-Cancelling Headphones",
+      "product_image": "https://i.ibb.co.com/GnhNHQ4/Wireless-Noise-Cancelling-Headphones.jpg",
+      "category": "Accessories",
+      "price": 199.99,
+      "description": "Comfortable and stylish wireless headphones with active noise-cancellation and long battery life.",
+      "Specification": [
+        "Active noise-cancellation",
+        "Bluetooth 5.1",
+        "30 hours battery life",
+        "Lightweight and foldable design",
+        "Compatible with all Bluetooth devices"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "E003",
+      "product_title": "Smartwatch Pro",
+      "product_image": "https://i.ibb.co.com/hZ2WMzW/Smartwatch-Pro.jpg",
+      "category": "Smart Watches",
+      "price": 249.99,
+      "description": "Advanced smartwatch with fitness tracking, heart rate monitor, and customizable watch faces.",
+      "Specification": [
+        "1.4-inch AMOLED display",
+        "Water-resistant up to 50 meters",
+        "Heart rate and sleep monitoring",
+        "GPS and NFC capabilities",
+        "Compatible with iOS and Android"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "E004",
+      "product_title": "4K Ultra HD Smart TV",
+      "product_image": "https://i.ibb.co.com/wCNntts/4-K-Ultra-HD-Smart-TV.jpg",
+      "category": "Accessories",
+      "price": 1199.99,
+      "description": "65-inch 4K Ultra HD smart TV with HDR support, voice control, and built-in streaming apps.",
+      "Specification": [
+        "65-inch 4K UHD display",
+        "HDR10+ support",
+        "Built-in streaming apps (Netflix, Prime Video, YouTube)",
+        "Voice control via remote",
+        "HDMI and USB ports"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "E005",
+      "product_title": "Laptop XZ Ultra",
+      "product_image": "https://i.ibb.co.com/dB0y43D/Laptop-XZ-Ultra.jpg",
+      "category": "Laptops",
+      "price": 1399.99,
+      "description": "High-performance laptop with a sleek design, powerful processor, and long battery life.",
+      "Specification": [
+        "14-inch Full HD display",
+        "Intel Core i7 processor",
+        "512GB SSD, 16GB RAM",
+        "Backlit keyboard",
+        "10-hour battery life"
+      ],
+      "availability": false,
+      "rating": 4.8
+    },
+    {
+      "product_id": "E006",
+      "product_title": "Smartphone Alpha 12 Pro",
+      "product_image": "https://i.ibb.co.com/dMvW24h/i-Phone-12-Pro-128-GB-3.jpg",
+      "category": "Phones",
+      "price": 799.99,
+      "description": "Flagship smartphone with high-end performance, AI-powered camera, and fast charging.",
+      "Specification": [
+        "6.7-inch Super AMOLED display",
+        "256GB storage, 12GB RAM",
+        "Quad-lens 64MP rear camera",
+        "4500mAh battery with fast charging",
+        "5G support"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "E007",
+      "product_title": "Apple iPhone 14 Pro",
+      "product_image": "https://i.ibb.co.com/SxVv03Y/iphone14pro.jpg",
+      "category": "Phones",
+      "price": 999.99,
+      "description": "Latest iPhone model with advanced camera features, powerful A16 chip, and ProMotion display.",
+      "Specification": [
+        "6.1-inch ProMotion display",
+        "128GB storage, expandable",
+        "Triple-lens 48MP rear camera",
+        "Face ID and Ceramic Shield",
+        "5G support"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "E008",
+      "product_title": "Apple iPhone 15 Pro",
+      "product_image": "https://i.ibb.co.com/7vJLXqv/i15pro.jpg",
+      "category": "Phones",
+      "price": 1099.99,
+      "description": "Latest iPhone model with advanced camera features, powerful A16 chip, and ProMotion display.",
+      "Specification": [
+        "6.1-inch ProMotion display",
+        "128GB storage, expandable",
+        "Triple-lens 48MP rear camera",
+        "Face ID and Ceramic Shield",
+        "5G support"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "E009",
+      "product_title": "Apple iPhone 16 Pro",
+      "product_image": "https://i.ibb.co.com/S5pczvv/i-Phone-16-Pro-Max-16-Pro-Black-Titanium-2734.jpg",
+      "category": "Phones",
+      "price": 1199.99,
+      "description": "Latest iPhone model with advanced camera features, powerful A16 chip, and ProMotion display.",
+      "Specification": [
+        "6.1-inch ProMotion display",
+        "128GB storage, expandable",
+        "Triple-lens 48MP rear camera",
+        "Face ID and Ceramic Shield",
+        "5G support"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "E010",
+      "product_title": "MacBook Pro M2",
+      "product_image": "https://i.ibb.co.com/6wDK0Wp/refurb-mbp16-m2-silver-202303.jpg",
+      "category": "Laptops",
+      "price": 1999.99,
+      "description": "Apple MacBook Pro with M2 chip for incredible performance, brilliant Retina display, and all-day battery life.",
+      "Specification": [
+        "13-inch Retina display",
+        "Apple M2 chip with 8-core CPU",
+        "256GB SSD, 16GB RAM",
+        "Backlit Magic Keyboard",
+        "Up to 20 hours of battery life"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "E011",
+      "product_title": "Smartwatch Ultra",
+      "product_image": "https://i.ibb.co.com/RvgR6vn/MYPD3ref-VW-34-FR-watch-case-49-titanium-black-ultra2-VW-34-FR-watch-face-49-ocean-ultra2-VW-34-FR-G.jpg",
+      "category": "Smart Watches",
+      "price": 299.99,
+      "description": "Premium smartwatch with fitness tracking, ECG monitoring, and water resistance up to 100 meters.",
+      "Specification": [
+        "1.5-inch AMOLED display",
+        "100m water resistance",
+        "ECG and heart rate monitoring",
+        "Built-in GPS and voice assistant",
+        "Compatible with iOS and Android"
+      ],
+      "availability": false,
+      "rating": 4.7
+    },
+    {
+      "product_id": "E012",
+      "product_title": "Laptop Pro Max",
+      "product_image": "https://i.ibb.co.com/JHStqk8/Apple-Mac-Book-Pro-14-16-inch-10182021-big-jpg-large.jpg",
+      "category": "Laptops",
+      "price": 2499.99,
+      "description": "High-end laptop designed for professionals, featuring an ultra-high-definition display and powerful performance.",
+      "Specification": [
+        "16-inch 4K display",
+        "Intel Core i9 processor",
+        "1TB SSD, 32GB RAM",
+        "Dedicated GPU for graphics-intensive tasks",
+        "Up to 12-hour battery life"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "E013",
+      "product_title": "Wireless Earbuds X",
+      "product_image": "https://i.ibb.co.com/Wt3Q9Lj/PB-ARPDP2-BK-Porodo-Blue-Deep-Bass-Wireless-Earbuds-Pro-2-with-Swipe-Volume-Black.jpg",
+      "category": "Accessories",
+      "price": 149.99,
+      "description": "Compact wireless earbuds with excellent sound quality, noise cancellation, and long battery life.",
+      "Specification": [
+        "Noise cancellation",
+        "Bluetooth 5.2",
+        "24 hours playtime with case",
+        "Water-resistant (IPX4)",
+        "Compatible with all Bluetooth devices"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "E014",
+      "product_title": "Apple iPhone SE 2023",
+      "product_image": "https://i.ibb.co.com/9hRjx0b/iphone-Se23.jpg",
+      "category": "Phones",
+      "price": 499.99,
+      "description": "Affordable iPhone with A15 Bionic chip, great performance, and classic design.",
+      "Specification": [
+        "4.7-inch Retina display",
+        "A15 Bionic chip",
+        "64GB storage",
+        "Touch ID",
+        "4G LTE support"
+      ],
+      "availability": true,
+      "rating": 4.4
+    }
+  ]
+  
